@@ -7,5 +7,5 @@
 5. [CCSM-105: Delivering Impactful Business Reviews](https://github.com/pslucas0212/CCSM-105-Delivering-Impactful-Business-Reviews)
 6. [CCSM-106: Re-Engaging Disengaged Customers](https://github.com/pslucas0212/CCSM-106-Re-Engaging-Disengaged-Customers/)
 7. [CCSM-107: Managing Account Relationships](https://github.com/pslucas0212/CCSM-107-Managing-Account-Relationships/)
-8. [CCSM-108: Applying A Consultative Approach]
+8. [CCSM-108: Applying A Consultative Approach](https://github.com/pslucas0212/CCSM-108-Applying-A-Consultative-Approach)
 
