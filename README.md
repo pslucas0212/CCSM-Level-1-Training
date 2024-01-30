@@ -10,5 +10,5 @@
 8. [CCSM-108: Applying A Consultative Approach](https://github.com/pslucas0212/CCSM-108-Applying-A-Consultative-Approach)
 9. [CCSM-109: Driving Disciplined Execution](https://github.com/pslucas0212/CCSM-109-Driving-Disciplined-Execution/)
 10. [CCSM-110: Navigating Internal & External Escalations](https://github.com/pslucas0212/CCSM-110-Navigating-Internal-External-Escalations)
-11. [](https://github.com/pslucas0212/CCSM-111-Handling-Tricky-Customers)
+11. [CCSM-111: Handling Tricky Customers](https://github.com/pslucas0212/CCSM-111-Handling-Tricky-Customers)
 
