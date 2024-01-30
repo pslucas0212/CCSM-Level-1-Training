@@ -11,5 +11,5 @@
 9. [CCSM-109: Driving Disciplined Execution](https://github.com/pslucas0212/CCSM-109-Driving-Disciplined-Execution/)
 10. [CCSM-110: Navigating Internal & External Escalations](https://github.com/pslucas0212/CCSM-110-Navigating-Internal-External-Escalations)
 11. [CCSM-111: Handling Tricky Customers](https://github.com/pslucas0212/CCSM-111-Handling-Tricky-Customers)
-12. [CCSM-112: Understanding Customer Success Metrics]()
+12. [CCSM-112: Understanding Customer Success Metrics](https://github.com/pslucas0212/CCSM-112-Understanding-Customer-Success-Metrics)
 
